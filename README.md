@@ -11,6 +11,4 @@
 
 ## 📊 GitHub Stats
 
-![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishor-2646&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-2646&layout=compact&theme=tokyonight)
+![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishor-2646&show_icons=true&theme=tokyonight&rank_icon=github)

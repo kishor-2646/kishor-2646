@@ -60,12 +60,10 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://raw.githubusercontent.com/kishor-2646/kishor-2646/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---

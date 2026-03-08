@@ -81,26 +81,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/kishor-2646">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/-LeetCode-2c2c2c?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="40" style="border-radius: 10px;" alt="leetcode" />
-  </a>
-
-  <a href="https://www.kaggle.com/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/-Kaggle-2c2c2c?style=for-the-badge&logo=kaggle&logoColor=20BEFF" height="40" style="border-radius: 10px;" alt="kaggle" />
-  </a>
+<a href="https://www.linkedin.com/in/kishor-kumar-505726293/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
+<a href="https://github.com/kishor-2646"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>&nbsp;&nbsp;
+<a href="mailto:kishorekumar20002646@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/kishor_2646/"><img src="./assets/leetcode.svg" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/kishor2646"><img src="./assets/kaggle.svg" height="40" /></a>
+</p>
 
 ---
 

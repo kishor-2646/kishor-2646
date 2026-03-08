@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Kishor!
 
-<!--
-**kishor-2646/kishor-2646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer sharing my journey in **coding, app development, and AI/ML**
 
-Here are some ideas to get you started:
+- 🎓 Studying **Computer Science and Engineering** at **Sri Sairam College of Engineering, Bangalore**
+- 📱 Building cross-platform and Android applications using **Flutter, Java, and Kotlin**
+- 🤖 Currently learning **Artificial Intelligence and Machine Learning**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🚀 Building projects and preparing for **Software Engineering internships**
+- 🌱 Learning in public and improving every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Kishor's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishor-2646&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-2646&layout=compact&theme=tokyonight)

@@ -83,7 +83,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kishor-kumar-505726293/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
 <a href="https://github.com/kishor-2646"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>&nbsp;&nbsp;
-<a href="mailto:kishorekumar20002646@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
+<a href="mailto:kishorekumar20002646@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 <a href="https://leetcode.com/u/kishor_2646/"><img src="./assets/leetcode.svg" height="40" /></a>&nbsp;&nbsp;
 <a href="https://www.kaggle.com/kishor2646"><img src="./assets/kaggle.svg" height="40" /></a>
 </p>

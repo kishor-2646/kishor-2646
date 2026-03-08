@@ -78,15 +78,29 @@
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/kishor-2646">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-</p>
+<a href="https://github.com/kishor-2646">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/-LeetCode-2c2c2c?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="40" style="border-radius: 10px;" alt="leetcode" />
+  </a>
+
+  <a href="https://www.kaggle.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/-Kaggle-2c2c2c?style=for-the-badge&logo=kaggle&logoColor=20BEFF" height="40" style="border-radius: 10px;" alt="kaggle" />
+  </a>
 
 ---
 

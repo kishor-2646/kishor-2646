@@ -60,21 +60,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/kishor-2646/kishor-2646/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kishor-2646&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</p>
 
 ---
 

@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | App Developer | AI/ML Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Flutter+%7C+Java+%7C+Kotlin+Developer;Learning+AI+and+Machine+Learning;Practicing+Data+Structures+and+Algorithms;Preparing+for+Software+Engineering+Internships" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Flutter+%7C+Java+%7C+Kotlin+Developer;Learning+AI+and+Machine+Learning;Practicing+Data+Structures+and+Algorithms;Preparing+for+Software+Engineering+Internships" />
 </p>
 
 ---

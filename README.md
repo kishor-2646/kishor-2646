@@ -16,7 +16,7 @@
 - 🎓 Computer Science and Engineering student at **Sri Sairam College of Engineering, Bangalore**
 - 📱 Building **Android and cross-platform apps**
 - 🤖 Currently learning **Artificial Intelligence & Machine Learning**
-- 🧠 Practicing **Data Structures & Algorithms**
+- 🧠 Practicing **Data Structures & Algorithms**.
 - 🚀 Preparing for **Software Engineering internships**.
 - 🌱 Learning in public and improving every day
 

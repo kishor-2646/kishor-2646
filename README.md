@@ -18,7 +18,7 @@
 - 🤖 Currently learning **Artificial Intelligence & Machine Learning**.
 - 🧠 Practicing **Data Structures & Algorithms**.
 - 🚀 Preparing for **Software Engineering internships**.
-- 🌱 Learning in public and improving every day
+- 🌱 Learning in public and improving every day.
 
 ---
 

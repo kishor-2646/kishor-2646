@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/a472a7e7-5b4d-4565-8b1b-29367a517610" width="260"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Kishor Kumar</h1>
+<h1 align="center">Hi 👋, I'm Kishor Kumar  </h1>
 <h3 align="center">Software Engineer | App Developer | AI/ML Learner</h3>
 
 <p align="center">

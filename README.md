@@ -55,7 +55,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Graph,
 
 <p align="center">
 

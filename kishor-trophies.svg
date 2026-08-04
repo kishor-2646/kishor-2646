@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170" role="img" aria-label="Kishor Kumar trophies">
+<title>Trophies</title>
+<defs>
+<style type="text/css"><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes popIn{0%{opacity:0;transform:translateY(16px) scale(.75)}70%{opacity:1;transform:translateY(-3px) scale(1.05)}100%{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes glow{0%,100%{filter:drop-shadow(0 0 2px #ff3b3b)}50%{filter:drop-shadow(0 0 8px #ff3b3b)}}
+@keyframes shine{0%{transform:translateX(-140px) skewX(-18deg)}100%{transform:translateX(160px) skewX(-18deg)}}
+.cell{opacity:0;animation:popIn .5s cubic-bezier(.2,.8,.3,1.3) forwards;transform-box:fill-box;transform-origin:center}
+.badge{animation:glow 2.6s ease-in-out infinite}
+.shine{animation:shine 3s ease-in-out infinite}
+]]></style>
+<clipPath id="c0"><rect x="10" y="10" width="120" height="150" rx="12"/></clipPath>
+<clipPath id="c1"><rect x="140" y="10" width="120" height="150" rx="12"/></clipPath>
+<clipPath id="c2"><rect x="270" y="10" width="120" height="150" rx="12"/></clipPath>
+<clipPath id="c3"><rect x="400" y="10" width="120" height="150" rx="12"/></clipPath>
+<clipPath id="c4"><rect x="530" y="10" width="120" height="150" rx="12"/></clipPath>
+<clipPath id="c5"><rect x="660" y="10" width="120" height="150" rx="12"/></clipPath>
+<clipPath id="c6"><rect x="790" y="10" width="100" height="150" rx="12"/></clipPath>
+</defs>
+
+<!-- Repos -->
+<g class="cell" style="animation-delay:.05s">
+  <rect x="10" y="10" width="120" height="150" rx="12" fill="#0d0505" stroke="#7f1d1d" stroke-width="1.4"/>
+  <text x="70" y="55" text-anchor="middle" font-size="30" class="badge">📦</text>
+  <text x="70" y="90" text-anchor="middle" font-size="12" fill="#8f8f8f">Repositories</text>
+  <text x="70" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#ff6b35">23</text>
+  <text x="70" y="135" text-anchor="middle" font-size="10" fill="#ff3b3b">A</text>
+  <g clip-path="url(#c0)"><rect class="shine" x="0" y="10" width="30" height="150" fill="#ffffff" opacity=".08"/></g>
+</g>
+
+<!-- Stars -->
+<g class="cell" style="animation-delay:.15s">
+  <rect x="140" y="10" width="120" height="150" rx="12" fill="#0d0505" stroke="#7f1d1d" stroke-width="1.4"/>
+  <text x="200" y="55" text-anchor="middle" font-size="30" class="badge">⭐</text>
+  <text x="200" y="90" text-anchor="middle" font-size="12" fill="#8f8f8f">Stars Earned</text>
+  <text x="200" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#ff6b35">5</text>
+  <text x="200" y="135" text-anchor="middle" font-size="10" fill="#ffb03b">B</text>
+  <g clip-path="url(#c1)"><rect class="shine" x="140" y="10" width="30" height="150" fill="#ffffff" opacity=".08"/></g>
+</g>
+
+<!-- Followers -->
+<g class="cell" style="animation-delay:.25s">
+  <rect x="270" y="10" width="120" height="150" rx="12" fill="#0d0505" stroke="#7f1d1d" stroke-width="1.4"/>
+  <text x="330" y="55" text-anchor="middle" font-size="30" class="badge">🤝</text>
+  <text x="330" y="90" text-anchor="middle" font-size="12" fill="#8f8f8f">Followers</text>
+  <text x="330" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#ff6b35">1</text>
+  <text x="330" y="135" text-anchor="middle" font-size="10" fill="#ff3b3b">C</text>
+  <g clip-path="url(#c2)"><rect class="shine" x="270" y="10" width="30" height="150" fill="#ffffff" opacity=".08"/></g>
+</g>
+
+<!-- Commits -->
+<g class="cell" style="animation-delay:.35s">
+  <rect x="400" y="10" width="120" height="150" rx="12" fill="#0d0505" stroke="#7f1d1d" stroke-width="1.4"/>
+  <text x="460" y="55" text-anchor="middle" font-size="30" class="badge">🔥</text>
+  <text x="460" y="90" text-anchor="middle" font-size="12" fill="#8f8f8f">Commits (Yr)</text>
+  <text x="460" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#ff6b35">340+</text>
+  <text x="460" y="135" text-anchor="middle" font-size="10" fill="#ffb03b">A</text>
+  <g clip-path="url(#c3)"><rect class="shine" x="400" y="10" width="30" height="150" fill="#ffffff" opacity=".08"/></g>
+</g>
+
+<!-- Pull Requests -->
+<g class="cell" style="animation-delay:.45s">
+  <rect x="530" y="10" width="120" height="150" rx="12" fill="#0d0505" stroke="#7f1d1d" stroke-width="1.4"/>
+  <text x="590" y="55" text-anchor="middle" font-size="30" class="badge">🔀</text>
+  <text x="590" y="90" text-anchor="middle" font-size="12" fill="#8f8f8f">Pull Requests</text>
+  <text x="590" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#ff6b35">12+</text>
+  <text x="590" y="135" text-anchor="middle" font-size="10" fill="#ff3b3b">B</text>
+  <g clip-path="url(#c4)"><rect class="shine" x="530" y="10" width="30" height="150" fill="#ffffff" opacity=".08"/></g>
+</g>
+
+<!-- Streak -->
+<g class="cell" style="animation-delay:.55s">
+  <rect x="660" y="10" width="120" height="150" rx="12" fill="#0d0505" stroke="#7f1d1d" stroke-width="1.4"/>
+  <text x="720" y="55" text-anchor="middle" font-size="30" class="badge">⚡</text>
+  <text x="720" y="90" text-anchor="middle" font-size="12" fill="#8f8f8f">Longest Streak</text>
+  <text x="720" y="112" text-anchor="middle" font-size="20" font-weight="700" fill="#ff6b35">9d</text>
+  <text x="720" y="135" text-anchor="middle" font-size="10" fill="#ffb03b">B</text>
+  <g clip-path="url(#c5)"><rect class="shine" x="660" y="10" width="30" height="150" fill="#ffffff" opacity=".08"/></g>
+</g>
+
+<!-- Experience -->
+<g class="cell" style="animation-delay:.65s">
+  <rect x="790" y="10" width="100" height="150" rx="12" fill="#0d0505" stroke="#7f1d1d" stroke-width="1.4"/>
+  <text x="840" y="55" text-anchor="middle" font-size="30" class="badge">🚑</text>
+  <text x="840" y="90" text-anchor="middle" font-size="12" fill="#8f8f8f">Live Project</text>
+  <text x="840" y="112" text-anchor="middle" font-size="13" font-weight="700" fill="#ff6b35">GreenWave</text>
+  <text x="840" y="135" text-anchor="middle" font-size="10" fill="#ff3b3b">S</text>
+  <g clip-path="url(#c6)"><rect class="shine" x="790" y="10" width="30" height="150" fill="#ffffff" opacity=".08"/></g>
+</g>
+</svg>

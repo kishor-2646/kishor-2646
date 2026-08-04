@@ -1,84 +1,88 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a472a7e7-5b4d-4565-8b1b-29367a517610" width="260"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Kishor Kumar  </h1>
-<h3 align="center">Software Engineer | App Developer | AI/ML Learner.</h3>
+<!-- 🔥 Animated Banner — dark/light auto-switch 🔥 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./kishor-banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./kishor-banner-light.svg?v=1">
+  <img src="./kishor-banner.svg?v=1" alt="Kishor Kumar — Software Engineer" width="100%"/>
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Flutter+%7C+Java+%7C+Kotlin+Developer;Learning+AI+and+Machine+Learning;Practicing+Data+Structures+and+Algorithms;Preparing+for+Software+Engineering+Internships" />
-</p>
+</div>
 
----
-## Visit My Portfolio : https://kishor2646.netlify.app/
-## 👨‍💻 About Me
+<br/>
 
-- 🎓 Computer Science and Engineering student at **Sri Sairam College of Engineering, Bangalore**
-- 📱 Building **Android and cross-platform apps**
-- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🚀 Preparing for **Software Engineering internships**.
-- 🌱 Learning in public and improving every day...
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
----
+<!-- 🪪 Swinging Lanyard ID Card — pure SVG, damped pendulum physics -->
+<img src="./kishor-lanyard.svg?v=1" alt="Kishor Kumar ID badge" width="300"/>
 
+</td>
+<td width="62%" valign="middle">
 
-# 🧰 Tech Stack
+### ⚙️ Featured Builds
 
-<p align="center">
+| 🚀 Project | 💻 Tech | Highlight |
+|:---|:---:|:---|
+| [🚑 GreenWave — Smart Ambulance Traffic Control](https://github.com/kishor-2646/GreenWave) | `Dart` `Firebase` `GPS` | Real-time green corridors |
+| [🚛 Truck Singh — Logistics Platform](https://github.com/kishor-2646/truck_singh) | `Dart` `Firebase` `Maps` | 100+ users, -40% manual ops |
+| [🖥️ PCify — AI PC Builder Marketplace](https://github.com/kishor-2646/PCify) | `Dart` `AI` | AI-matched builder marketplace |
+| [🎯 CareerAdvisor — SIH 2025](https://github.com/kishor-2646/CareerAdvisorJK) | `Kotlin` | Career guidance for J&K |
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,c,python,git,github,androidstudio,vscode,firebase,mysql"/>
+<br/>
 
-</p>
+> 🔥 *"I don't just write code, I ship real-time systems."*
 
----
+</td>
+</tr>
+</table>
 
-# 📊 GitHub Stats
+<br/>
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kishor-2646&show_icons=true&theme=tokyonight"/>
+### 📊 GitHub Stats & Graphs
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishor-2646&layout=compact&theme=tokyonight"/>
+<!-- local, self-hosted cards — no third-party rate limits -->
+<img src="./kishor-stats.svg?v=1" alt="GitHub Stats" height="195"/>
+<img src="./kishor-langs.svg?v=1" alt="Top Languages" height="195"/>
 
-</p>
+<br/><br/>
 
----
+<img src="https://streak-stats.demolab.com?user=kishor-2646&theme=radical&hide_border=true&background=0a0606&ring=ff3b3b&fire=ff6b35&currStreakLabel=ff6b35&sideNums=f1f1f1&currStreakNum=f1f1f1&dates=8a8a8a&border=7f1d1d" alt="GitHub Streak"/>
 
-# 🔥 GitHub Streak
+<br/><br/>
 
-<p align="center">
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-2646&bg_color=0a0606&color=ff6b35&line=ff3b3b&point=ffb03b&area=true&area_color=b91c1c&hide_border=true&custom_title=Contribution%20Activity%20%F0%9F%94%A5" alt="Contribution graph" width="95%"/>
 
-<img src="https://streak-stats.demolab.com?user=kishor-2646&theme=tokyonight"/>
+<br/><br/>
 
-</p>
+<!-- 🏆 Trophies — local animated SVG, never shows broken-image errors -->
+<img src="./kishor-trophies.svg?v=1" alt="Trophies" width="95%"/>
 
----
+<br/><br/>
 
-# 📈 Contribution Graph,
+### 🐍 Watch the snake eat my contributions
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/kishor-2646/kishor-2646/output/github-snake-red.svg" alt="Contribution snake"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-2646&theme=tokyo-night"/>
+<br/><br/>
 
-</p>
+### 📫 Let's Connect
 
----
+<a href="mailto:Kishorekumar20002646@gmail.com"><img src="https://img.shields.io/badge/Email-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/kishor-2646"><img src="https://img.shields.io/badge/GitHub-171010?style=for-the-badge&logo=github&logoColor=ff3b3b" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/kishor-kumar-505726293"><img src="https://img.shields.io/badge/LinkedIn-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://kishor2646.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ff6b35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=kishor-2646&color=ff3b3b&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
----
+<br/><br/>
 
-## 🌐 Connect With Me
+*🔥 Building real-time systems, one deploy at a time.*
 
-<p align="center">
-<a href="https://www.linkedin.com/in/kishor-kumar-505726293/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
-<a href="https://github.com/kishor-2646"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>&nbsp;&nbsp;
-<a href="mailto:kishorekumar20002646@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/kishor_2646/"><img src="./assets/leetcode.svg" height="40" /></a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/kishor2646"><img src="./assets/kaggle.svg" height="40" /></a>
-</p>
-
----
-
-⭐ From **Kishor Kumar**
+</div>

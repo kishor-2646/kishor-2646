@@ -1,0 +1,58 @@
+<!-- STREAMING_CHUNK: Rendering the base background with grid overlay -->
+<!-- Base Background with rounded corners -->
+<rect width="1000" height="400" fill="url(#bgGrad)" rx="15" ry="15" />
+
+<!-- Grid Overlay -->
+<rect width="1000" height="400" fill="url(#grid)" rx="15" ry="15" opacity="0.8" />
+
+<!-- STREAMING_CHUNK: Adding decorative coding-related floating elements -->
+<g fill="#94a3b8" opacity="0.35" font-family="monospace" font-size="20" font-weight="bold">
+    <text x="45" y="45">&lt;/&gt;</text>
+    <text x="360" y="60">{ }</text>
+    <text x="440" y="310">() =&gt;</text>
+    <text x="30" y="360">;</text>
+    <text x="210" y="40">#</text>
+    <text x="390" y="370">[]</text>
+    <text x="180" y="350">*</text>
+    <text x="15" y="190">++</text>
+    <text x="270" y="210">$&amp;</text>
+</g>
+
+<!-- STREAMING_CHUNK: Adding soft colored dots for visual flair -->
+<!-- Red, Orange, and Blue dots matching the reference aesthetic -->
+<circle cx="80" cy="80" r="2.5" fill="#f87171" opacity="0.8" />
+<circle cx="430" cy="110" r="2.5" fill="#fb923c" opacity="0.8" />
+<circle cx="400" cy="220" r="2.5" fill="#38bdf8" opacity="0.8" />
+<circle cx="160" cy="340" r="2.5" fill="#34d399" opacity="0.8" />
+
+<!-- STREAMING_CHUNK: Formatting the intro text paragraph with title -->
+<foreignObject x="45" y="35" width="460" height="330">
+    <xhtml:div style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; height: 100%; display: flex; flex-direction: column; justify-content: center; padding-right: 15px;">
+        
+        <!-- Added Title "About Myself" -->
+        <xhtml:h2 style="margin: 0 0 12px 0; font-size: 26px; font-weight: 700; color: #0f172a; border-bottom: 2px solid #3b82f6; display: inline-block; width: fit-content; padding-bottom: 4px;">
+            About Myself
+        </xhtml:h2>
+        
+        <!-- Paragraph is slightly bolded (font-weight: 600) and italicized to match original aesthetic -->
+        <xhtml:p style="margin: 0; font-size: 15.5px; line-height: 1.6; font-weight: 600; color: #334155; text-align: justify; font-style: italic;">
+            Aspiring Software Engineer with hands-on experience in Java, SQL, Data Structures &amp; Algorithms, REST APIs, and real-time application development. Experienced in building scalable software systems, backend integrations, and solving complex technical problems through internships and projects. Strong understanding of Object-Oriented Programming, software development lifecycle, version control using Git, and database management. Passionate about developing high-quality software solutions and continuously learning modern technologies.
+        </xhtml:p>
+        
+    </xhtml:div>
+</foreignObject>
+
+<!-- STREAMING_CHUNK: Positioning the Avatar image to meet layout constraints -->
+<!-- 
+  - x, y, width, height: Creates the bounding box on the right half. 
+  - height="400" and y="0" forces the bounding box to touch the absolute bottom of the SVG.
+  - preserveAspectRatio="xMaxYMax meet": 
+    1. 'meet' ensures the image is scaled to fit 100% inside without ANY cropping on the sides.
+    2. 'YMax' pushes the image flush to the very bottom boundary (0 margin).
+    3. 'xMax' pushes it to the right edge.
+  - Updated href to use the provided image file link.
+-->
+<image href="https://raw.githubusercontent.com/kishor-2646/kishor-2646/main/kishor-banner.jpg" x="500" y="0" width="500" height="400" preserveAspectRatio="xMaxYMax meet" />
+
+<!-- Outer border frame -->
+<rect width="1000" height="400" fill="none" stroke="#cbd5e1" stroke-width="1.5" rx="15" ry="15" />

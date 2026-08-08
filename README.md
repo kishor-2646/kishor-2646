@@ -45,6 +45,8 @@
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=kishor-2646&color=ff3b3b&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
 # 📊 GitHub Stats & Graphs
 
 <!-- local, self-hosted cards — no third-party rate limits -->
@@ -75,14 +77,7 @@
 <br/><br/>
 
 
-
-
-<img src="https://komarev.com/ghpvc/?username=kishor-2646&color=ff3b3b&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
 ---
-<br/><br/>
 
 # 🌐 Connect With Me
 *🔥 Building real-time systems, one deploy at a time.*

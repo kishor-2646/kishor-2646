@@ -14,12 +14,12 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate red-themed snake SVG
+      - name: Generate blue-themed snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: kishor-2646
           outputs: |
-            dist/github-snake-red.svg?color_snake=ff3b3b&color_dots=170a0a,3a1616,7f1d1d,b91c1c,ff3b3b
+            dist/github-snake.svg?color_snake=ff3b3b&color_dots=dbeefc,9ecbef,1e88c7,ffb03b,ff3b3b
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4

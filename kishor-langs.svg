@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 195" width="420" height="195" role="img" aria-label="Kishor Kumar top languages">
+<title>Top Languages</title>
+<defs>
+<style type="text/css"><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+.lbl{opacity:0;animation:fadeIn .4s ease forwards}
+]]></style>
+</defs>
+<rect x="1" y="1" width="418" height="193" rx="14" fill="#eaf6ff" stroke="#1e88c7" stroke-width="1.4"/>
+<text x="20" y="30" font-size="15" font-weight="700" fill="#ff6b35">Most Used Languages</text>
+
+<g font-size="13" fill="#0e2233">
+  <!-- Dart -->
+  <text class="lbl" x="20" y="58" style="animation-delay:.1s">Dart</text>
+  <rect x="110" y="48" width="290" height="12" rx="6" fill="#dbeefc"/>
+  <rect x="110" y="48" width="0" height="12" rx="6" fill="#ff3b3b"><animate attributeName="width" from="0" to="210" dur="1s" begin=".2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
+  <text class="lbl" x="410" y="58" text-anchor="end" fill="#5f7a8c" style="animation-delay:1.1s">27%</text>
+
+  <!-- TypeScript -->
+  <text class="lbl" x="20" y="86" style="animation-delay:.25s">TypeScript</text>
+  <rect x="110" y="76" width="290" height="12" rx="6" fill="#dbeefc"/>
+  <rect x="110" y="76" width="0" height="12" rx="6" fill="#ff6b35"><animate attributeName="width" from="0" to="165" dur="1s" begin=".35s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
+  <text class="lbl" x="410" y="86" text-anchor="end" fill="#5f7a8c" style="animation-delay:1.2s">21%</text>
+
+  <!-- Java -->
+  <text class="lbl" x="20" y="114" style="animation-delay:.4s">Java</text>
+  <rect x="110" y="104" width="290" height="12" rx="6" fill="#dbeefc"/>
+  <rect x="110" y="104" width="0" height="12" rx="6" fill="#ffb03b"><animate attributeName="width" from="0" to="126" dur="1s" begin=".5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
+  <text class="lbl" x="410" y="114" text-anchor="end" fill="#5f7a8c" style="animation-delay:1.3s">16%</text>
+
+  <!-- JavaScript -->
+  <text class="lbl" x="20" y="142" style="animation-delay:.55s">JavaScript</text>
+  <rect x="110" y="132" width="290" height="12" rx="6" fill="#dbeefc"/>
+  <rect x="110" y="132" width="0" height="12" rx="6" fill="#b91c1c"><animate attributeName="width" from="0" to="87" dur="1s" begin=".65s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
+  <text class="lbl" x="410" y="142" text-anchor="end" fill="#5f7a8c" style="animation-delay:1.4s">11%</text>
+
+  <!-- Python -->
+  <text class="lbl" x="20" y="170" style="animation-delay:.7s">Python</text>
+  <rect x="110" y="160" width="290" height="12" rx="6" fill="#dbeefc"/>
+  <rect x="110" y="160" width="0" height="12" rx="6" fill="#7f1d1d"><animate attributeName="width" from="0" to="63" dur="1s" begin=".8s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
+  <text class="lbl" x="410" y="170" text-anchor="end" fill="#5f7a8c" style="animation-delay:1.5s">8%</text>
+</g>
+</svg>

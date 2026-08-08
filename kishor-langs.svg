@@ -4,10 +4,16 @@
 <style type="text/css"><![CDATA[
 text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes glintMove{0%{transform:translateX(-160px)}100%{transform:translateX(560px)}}
 .lbl{opacity:0;animation:fadeIn .4s ease forwards}
+.glint{animation:glintMove 3.6s ease-in-out infinite}
 ]]></style>
+<linearGradient id="glintg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/><stop offset="50%" stop-color="#ffffff" stop-opacity=".45"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="cardClip"><rect x="1" y="1" width="418" height="193" rx="14"/></clipPath>
 </defs>
-<rect x="1" y="1" width="418" height="193" rx="14" fill="#eaf6ff" stroke="#1e88c7" stroke-width="1.4"/>
+<rect x="1" y="1" width="418" height="193" rx="14" fill="#eaf6ff" stroke="#1e88c7" stroke-width="1" stroke-opacity=".5"/>
 <text x="20" y="30" font-size="15" font-weight="700" fill="#ff6b35">Most Used Languages</text>
 
 <g font-size="13" fill="#0e2233">
@@ -41,4 +47,6 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <rect x="110" y="160" width="0" height="12" rx="6" fill="#7f1d1d"><animate attributeName="width" from="0" to="63" dur="1s" begin=".8s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.3 1"/></rect>
   <text class="lbl" x="410" y="170" text-anchor="end" fill="#5f7a8c" style="animation-delay:1.5s">8%</text>
 </g>
+
+<rect class="glint" x="1" y="1" width="70" height="193" fill="url(#glintg)" clip-path="url(#cardClip)" transform="skewX(-18)"/>
 </svg>

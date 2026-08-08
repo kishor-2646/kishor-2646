@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card — pure SVG, damped pendulum physics -->
-<img src="./kishor-lanyard.svg?v=2" alt="Kishor Kumar ID badge" width="300"/>
+<img src="./kishor-lanyard.svg?v=3" alt="Kishor Kumar ID badge" width="380"/>
 
 </td>
 <td width="62%" valign="middle">

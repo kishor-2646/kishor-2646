@@ -50,12 +50,12 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kishor-2646&theme=radical&hide_border=true&background=0a0606&ring=ff3b3b&fire=ff6b35&currStreakLabel=ff6b35&sideNums=f1f1f1&currStreakNum=f1f1f1&dates=8a8a8a&border=7f1d1d" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kishor-2646&hide_border=true&background=EAF6FF&ring=FF3B3B&fire=FF6B35&currStreakLabel=FF6B35&sideNums=0E2233&currStreakNum=0E2233&dates=5F7A8C&border=1E88C7" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-2646&bg_color=0a0606&color=ff6b35&line=ff3b3b&point=ffb03b&area=true&area_color=b91c1c&hide_border=true&custom_title=Contribution%20Activity%20%F0%9F%94%A5" alt="Contribution graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-2646&bg_color=EAF6FF&color=0E2233&line=FF3B3B&point=FFB03B&area=true&area_color=FF6B35&hide_border=true&custom_title=Contribution%20Activity%20%F0%9F%94%A5" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
@@ -66,7 +66,7 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/kishor-2646/kishor-2646/output/github-snake-red.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/kishor-2646/kishor-2646/output/github-snake.svg" alt="Contribution snake"/>
 
 <br/><br/>
 

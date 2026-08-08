@@ -11,15 +11,15 @@
 
 <br/>
 
-<table align="center" border="0" width="100%">
+<table align="center" border="0" width="980">
 <tr>
-<td width="56%" align="center" valign="middle">
+<td width="430" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card — pure SVG, damped pendulum physics -->
-<img src="./kishor-lanyard.svg?v=5" alt="Kishor Kumar ID badge" width="92%"/>
+<img src="./kishor-lanyard.svg?v=6" alt="Kishor Kumar ID badge" width="400"/>
 
 </td>
-<td width="44%" valign="middle">
+<td width="550" valign="middle">
 
 #### ⚙️ Featured Builds
 

@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: kishor-2646
           outputs: |
-            dist/github-snake.svg?color_snake=ff3b3b&color_dots=dbeefc,9ecbef,1e88c7,ffb03b,ff3b3b
+            dist/github-snake.svg?color_snake=#ff3b3b&color_dots=#dbeefc,#9ecbef,#1e88c7,#ffb03b,#ff3b3b
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4

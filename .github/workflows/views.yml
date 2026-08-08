@@ -1,0 +1,41 @@
+name: Update Profile Views Card
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # refresh every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-views:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch current view count from komarev
+        id: count
+        run: |
+          RAW=$(curl -s "https://komarev.com/ghpvc/?username=kishor-2646&style=flat-square")
+          COUNT=$(echo "$RAW" | grep -oP '(?<=<title>).*?(?= : )' | tr -d ',')
+          if [ -z "$COUNT" ]; then
+            COUNT=$(echo "$RAW" | grep -oP '(?<=>)[0-9,]+(?=</text>)' | tail -1 | tr -d ',')
+          fi
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Inject count into local styled SVG
+        run: |
+          COUNT="${{ steps.count.outputs.count }}"
+          FORMATTED=$(printf "%'d" "$COUNT" 2>/dev/null || echo "$COUNT")
+          sed "s/__COUNT__/${FORMATTED}/" kishor-views-template.svg > kishor-views.svg
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add kishor-views.svg
+          git diff --cached --quiet || git commit -m "Update profile views card [skip ci]"
+          git push

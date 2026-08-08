@@ -21,7 +21,7 @@
 </td>
 <td width="62%" valign="middle">
 
-###  ⚙️ Featured Builds
+#  ⚙️ Featured Builds
 
 | 🚀 Project | Highlight |
 |:---|:---:|
@@ -32,6 +32,10 @@
 
 <br/>
 
+# 🧰 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,c,python,git,github,androidstudio,vscode,firebase,mysql"/>
+</p>
 > 🔥 "I don't just write code, I ship real-time systems."
 
 </td>
@@ -41,10 +45,11 @@
 
 <div align="center">
 
-### 📊 GitHub Stats & Graphs
+# 📊 GitHub Stats & Graphs
 
 <!-- local, self-hosted cards — no third-party rate limits -->
-<img src="./kishor-stats.svg?v=1" alt="GitHub Stats" height="195"/>
+<img src="./kishor-stats.svg?v=1" alt="GitHub Stats" height="195"/>     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./kishor-langs.svg?v=1" alt="Top Languages" height="195"/>
 
 <br/><br/>
@@ -63,25 +68,38 @@
 
 <br/><br/>
 
-### 🐍 Watch the snake eat my contributions
+# 🐍 Watch the snake eat my contributions
 
 <img src="https://raw.githubusercontent.com/kishor-2646/kishor-2646/output/github-snake.svg?v=1" alt="Contribution snake"/>
 
 <br/><br/>
 
-### 📫 Let's Connect
 
-<a href="mailto:Kishorekumar20002646@gmail.com"><img src="https://img.shields.io/badge/Email-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/kishor-2646"><img src="https://img.shields.io/badge/GitHub-171010?style=for-the-badge&logo=github&logoColor=ff3b3b" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/kishor-kumar-505726293"><img src="https://img.shields.io/badge/LinkedIn-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://kishor2646.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ff6b35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=kishor-2646&color=ff3b3b&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
+---
+<br/><br/>
+
+# 🌐 Connect With Me
 *🔥 Building real-time systems, one deploy at a time.*
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kishor-kumar-505726293/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;
+<a href="https://github.com/kishor-2646"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>&nbsp;&nbsp;
+<a href="mailto:kishorekumar20002646@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/kishor_2646/"><img src="./assets/leetcode.svg" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/kishor2646"><img src="./assets/kaggle.svg" height="40" /></a>
+  <br/>
+<a href="https://kishor2646.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ff6b35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+---
+
+⭐ From **Kishor Kumar**
+
 
 </div>

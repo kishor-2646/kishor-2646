@@ -49,7 +49,7 @@
 
 <!-- local, self-hosted cards — no third-party rate limits -->
 <img src="./kishor-stats.svg?v=1" alt="GitHub Stats" height="195"/>     
-&nbsp;
+
 <img src="./kishor-langs.svg?v=1" alt="Top Languages" height="195"/>
 
 <br/><br/>

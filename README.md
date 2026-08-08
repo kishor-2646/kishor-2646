@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="./kishor-views-template.svg?v=2" alt="Profile views"/>
+<img src="./kishor-views.svg?v=2" alt="Profile views"/>
 
 # 📊 GitHub Stats & Graphs
 

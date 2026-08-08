@@ -13,13 +13,13 @@
 
 <table align="center" border="0">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="46%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card — pure SVG, damped pendulum physics -->
-<img src="./kishor-lanyard.svg?v=3" alt="Kishor Kumar ID badge" width="380"/>
+<img src="./kishor-lanyard.svg?v=4" alt="Kishor Kumar ID badge" width="100%"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="54%" valign="middle">
 
 ### ⚙️ Featured Builds
 
@@ -50,12 +50,12 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kishor-2646&hide_border=true&background=EAF6FF&ring=FF3B3B&fire=FF6B35&currStreakLabel=FF6B35&sideNums=0E2233&currStreakNum=0E2233&dates=5F7A8C&border=1E88C7" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=kishor-2646&hide_border=false&border_radius=14&background=EAF6FF&ring=FF3B3B&fire=FF6B35&currStreakLabel=FF6B35&sideNums=0E2233&currStreakNum=0E2233&dates=5F7A8C&border=1E88C7" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-2646&bg_color=EAF6FF&color=0E2233&line=FF3B3B&point=FFB03B&area=true&area_color=FF6B35&hide_border=true&custom_title=Contribution%20Activity%20%F0%9F%94%A5" alt="Contribution graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-2646&bg_color=EAF6FF&color=0E2233&line=FF3B3B&point=FFB03B&area=true&area_color=FF6B35&border_color=1E88C7&custom_title=Contribution%20Activity%20%F0%9F%94%A5" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 

@@ -11,33 +11,32 @@
 
 <br/>
 
-<table align="center" border="0" width="980">
+<table align="center" border="0">
 <tr>
-<td width="430" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card — pure SVG, damped pendulum physics -->
-<img src="./kishor-lanyard.svg?v=6" alt="Kishor Kumar ID badge" width="400"/>
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./kishor-lanyard.svg?v=6" alt="Kishor Kumar ID badge" width="330"/>
 
 </td>
-<td width="550" valign="middle">
+<td width="62%" valign="middle">
 
-#### ⚙️ Featured Builds
+###  ⚙️ Featured Builds
 
-| 🚀 Project | 💻 Tech | Highlight |
-|:---|:---:|:---|
-| [🚑 GreenWave — Smart Ambulance Traffic Control](https://github.com/kishor-2646/GreenWave) | `Dart` `Firebase` `GPS` | Real-time green corridors |
-| [🚛 Truck Singh — Logistics Platform](https://github.com/kishor-2646/truck_singh) | `Dart` `Firebase` `Maps` | 100+ users, -40% manual ops |
-| [🖥️ PCify — AI PC Builder Marketplace](https://github.com/kishor-2646/PCify) | `Dart` `AI` | AI-matched builder marketplace |
-| [🎯 CareerAdvisor — SIH 2025](https://github.com/kishor-2646/CareerAdvisorJK) | `Kotlin` | Career guidance for J&K |
+| 🚀 Project | Highlight |
+|:---|:---:|
+| [🚑 GreenWave — Smart Ambulance Traffic Control](https://github.com/kishor-2646/GreenWave) | Real-time green corridors |
+| [🚛 Truck Singh — Logistics Platform](https://github.com/kishor-2646/truck_singh) | 100+ users, -40% manual ops |
+| [🖥️ PCify — AI PC Builder Marketplace](https://github.com/kishor-2646/PCify) | AI-matched builder marketplace |
+| [🎯 CareerAdvisor — SIH 2025](https://github.com/kishor-2646/CareerAdvisorJK) | Career guidance for J&K |
 
 <br/>
 
-> 🔥 *"I don't just write code, I ship real-time systems."*
+> 🔥 "I don't just write code, I ship real-time systems."
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 <div align="center">

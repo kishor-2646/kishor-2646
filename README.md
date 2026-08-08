@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=kishor-2646&color=ff3b3b&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="./kishor-views.svg?v=1" alt="Profile views"/>
 
 # 📊 GitHub Stats & Graphs
 

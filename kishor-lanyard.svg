@@ -9,11 +9,29 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 @keyframes fadeIn{from{opacity:0;transform:translateY(-10px)}to{opacity:1;transform:translateY(0)}}
 @keyframes glintMove{0%{transform:translateX(-120px)}100%{transform:translateX(360px)}}
 @keyframes blinkDot{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes floatA{
+    0%,100%{transform:translateY(0) rotate(0deg);}
+    50%{transform:translateY(-8px) rotate(-2deg);}
+}
+
+@keyframes floatB{
+    0%,100%{transform:translateY(0) rotate(0deg);}
+    50%{transform:translateY(8px) rotate(2deg);}
+}
+@keyframes spinSlow{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+@keyframes cursorBlink{0%,49%{opacity:1}50%,100%{opacity:0}}
 #dropWrap{transform-box:view-box;animation:dropIn 1.1s cubic-bezier(.3,.9,.4,1) forwards}
 #rig{transform-box:view-box;transform-origin:170px 8px;animation:dampedSwing 3s ease-out 1.1s 1 both, swing 4.4s ease-in-out 4.1s infinite}
 .card-in{opacity:0;animation:fadeIn .8s ease .3s forwards}
 .glint{animation:glintMove 3.6s ease-in-out infinite}
 .live{animation:blinkDot 1.4s ease-in-out infinite}
+.floatA,.floatB,.floatC,.floatD{transform-box:fill-box;transform-origin:center}
+.floatA{animation:floatA 4s ease-in-out infinite}
+.floatB{animation:floatB 4.6s ease-in-out infinite .4s}
+.floatC{animation:floatA 3.6s ease-in-out infinite .8s}
+.floatD{animation:floatB 5s ease-in-out infinite .2s}
+.gearspin{animation:spinSlow 12s linear infinite}
+.cursor{animation:cursorBlink 1s steps(1) infinite}
 ]]></style>
 <linearGradient id="strap" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0%" stop-color="#7f1d1d"/><stop offset="50%" stop-color="#b91c1c"/><stop offset="100%" stop-color="#7f1d1d"/>
@@ -27,6 +45,116 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <clipPath id="avatarClip"><circle cx="170" cy="250" r="56"/></clipPath>
 <clipPath id="cardClip"><rect x="35" y="140" width="270" height="460" rx="18"/></clipPath>
 </defs>
+
+<!-- floating coding/tech background elements -->
+<g class="bgfloat">
+
+  <!-- </> -->
+  <text x="28" y="58"
+        class="floatA"
+        font-size="26"
+        font-weight="700"
+        fill="#22d3ee"
+        opacity="0.85">&lt;/&gt;</text>
+
+  <!-- {} -->
+  <text x="270" y="58"
+        class="floatB"
+        font-size="28"
+        font-weight="700"
+        fill="#60a5fa"
+        opacity="0.80">{ }</text>
+
+  <!-- Binary -->
+  <g class="floatC" opacity="0.50">
+    <text x="14" y="220" font-size="11" fill="#94a3b8">01</text>
+    <text x="14" y="235" font-size="11" fill="#94a3b8">10</text>
+    <text x="14" y="250" font-size="11" fill="#94a3b8">11</text>
+    <text x="14" y="265" font-size="11" fill="#94a3b8">00</text>
+  </g>
+
+  <!-- Terminal -->
+  <g class="floatD"
+     transform="translate(300,205)"
+     opacity="0.85">
+    <rect x="0" y="0" width="26" height="20" rx="3"
+          fill="#0e2233"
+          stroke="#22d3ee"
+          stroke-width="1.3"/>
+    <circle cx="4" cy="4" r="1.1" fill="#ff5f56"/>
+    <circle cx="8" cy="4" r="1.1" fill="#ffbd2e"/>
+    <circle cx="12" cy="4" r="1.1" fill="#27c93f"/>
+    <text x="3" y="16"
+          font-size="7.5"
+          fill="#22d3ee">&gt;_<tspan class="cursor">|</tspan></text>
+  </g>
+
+<!-- Network -->
+<g class="floatA"
+   transform="translate(20,540)"
+   opacity="0.75">
+  <circle cx="4" cy="4" r="4" fill="none" stroke="#f97316" stroke-width="2"/>
+  <circle cx="4" cy="28" r="4" fill="none" stroke="#f97316" stroke-width="2"/>
+  <circle cx="20" cy="16" r="4" fill="none" stroke="#f97316" stroke-width="2"/>
+  <path d="M4 8 V24" stroke="#f97316" stroke-width="2" fill="none"/>
+  <path d="M4 16 C10 16 12 16 16 16" stroke="#f97316" stroke-width="2" fill="none"/>
+</g>
+
+  <!-- Gear -->
+<g class="floatB gearspin"
+   transform="translate(285,545)"
+   opacity="0.70">
+  <circle cx="10" cy="10" r="5"
+          fill="none"
+          stroke="#94a3b8"
+          stroke-width="2"/>
+  <g stroke="#94a3b8" stroke-width="2">
+    <line x1="10" y1="0" x2="10" y2="3"/>
+    <line x1="10" y1="17" x2="10" y2="20"/>
+    <line x1="0" y1="10" x2="3" y2="10"/>
+    <line x1="17" y1="10" x2="20" y2="10"/>
+    <line x1="3" y1="3" x2="5" y2="5"/>
+    <line x1="15" y1="15" x2="17" y2="17"/>
+    <line x1="17" y1="3" x2="15" y2="5"/>
+    <line x1="5" y1="15" x2="3" y2="17"/>
+  </g>
+</g>
+
+  <!-- Coffee -->
+  <g class="floatC"
+     transform="translate(10,585)"
+     opacity="0.80">
+    <rect x="0" y="6"
+          width="20"
+          height="16"
+          rx="2"
+          fill="none"
+          stroke="#c9a05a"
+          stroke-width="2"/>
+    <path d="M20 9 Q28 9 28 14 Q28 19 20 19"
+          fill="none"
+          stroke="#c9a05a"
+          stroke-width="2"/>
+    <path d="M4 3 Q6 6 4 8"
+          fill="none"
+          stroke="#c9a05a"
+          stroke-width="1.3"/>
+    <path d="M10 2 Q12 5 10 7"
+          fill="none"
+          stroke="#c9a05a"
+          stroke-width="1.3"/>
+  </g>
+
+  <!-- # -->
+  <text x="302"
+        y="500"
+        class="floatD"
+        font-size="20"
+        font-weight="700"
+        fill="#fbbf24"
+        opacity="0.75">#</text>
+
+</g>
 
 <g id="dropWrap">
 <g id="rig">

@@ -56,7 +56,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kishor-2646&hide_border=false&border_radius=14&background=EAF6FF&ring=FF3B3B&fire=FF6B35&currStreakLabel=FF6B35&sideNums=0E2233&currStreakNum=0E2233&dates=5F7A8C&border=1E88C7" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=kishor-2646&hide_border=false&border_radius=14&background=EAF6FF&ring=FF3B3B&fire=FF6B35&currStreakLabel=FF6B35&sideNums=0E2233&currStreakNum=0E2233&dates=5F7A8C&border=1E88C7" alt="GitHub Streak"/>
 
 <br/><br/>
 
